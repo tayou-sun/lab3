@@ -1,0 +1,1 @@
+﻿<%@ Application Codebehind="Global.asax.cs" Inherits="BooksStore.OAuth.MvcApplication" Language="C#" %>
